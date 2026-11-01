@@ -38,6 +38,14 @@ Se establecieron indicadores para evaluar el cumplimiento de los objetivos y el 
 
 [Consultar indicadores de control](./docs/indicadores_de_control.md)
 
+## Flujo de trabajo con Git
+
+- La rama `main` se utiliza para mantener la documentación principal del proyecto.
+- Los cambios se realizan en ramas secundarias, utilizando nombres descriptivos, como `docs/diagrama-bpmn`.
+- La documentación complementaria se organiza en el directorio `docs/`.
+- Los cambios se integran a `main` mediante Pull Requests, con revisión de pares.
+- Los mensajes de commit describen de forma breve y clara las modificaciones realizadas.
+
 ## Declaración de uso de IA
 
 Como herramienta de apoyo, se utilizó inteligencia artificial como ChatGPT y Gemini para organizar y desarrollar ideas, detectar posibles errores o inconsistencias en los planteos y realizar revisiones de redacción y estructura así como para revisar la coherencia del modelado BPMN con los contenidos de la Unidad 5 y los trabajos prácticos anteriores.
