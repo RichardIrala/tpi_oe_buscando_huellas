@@ -23,6 +23,16 @@ Facilitar la localización y recuperación de mascotas perdidas, promoviendo la 
 * Sistema automatizado: publica los casos, registra aportes (comentarios), notifica y actualiza el estado del caso.
 * Administración y supervisión: monitorea el caso y modera publicaciones y comentarios mientras la búsqueda está activa.
 
+## Diagrama BPMN del proceso organizativo que el software va a automatizar
+
+El siguiente diagrama representa el proceso organizativo de búsqueda de mascotas perdidas de Buscando Huellas y cómo el software propuesto se integra a él para automatizar determinadas actividades. El modelado se centra en la participación de los distintos actores, las actividades, las decisiones y los posibles caminos de la búsqueda hasta su finalización, sin profundizar en los detalles técnicos del funcionamiento interno del software.
+
+![Diagrama BPMN del proceso de búsqueda](./docs/diagrama_bpmn.png)
+
+### Archivo BPMN
+
+[Consultar archivo BPMN editable](./docs/diagrama_bpmn.bpm)
+
 ## Historias de usuario
 
 ![Tablero de Github Projects](./tablero_github_projects.png)
