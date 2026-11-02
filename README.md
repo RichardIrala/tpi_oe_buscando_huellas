@@ -20,6 +20,12 @@ El proyecto propone el desarrollo de un software que centralice publicaciones de
 
 Facilitar la localización y recuperación de mascotas perdidas, promoviendo la colaboración de la comunidad mediante un software que permita centralizar la información, difundir los casos y realizar un seguimiento organizado de las búsquedas.
 
+## Entregas anteriores
+
+- [TPI 1](./entregas_anteriores/Irala_Richard_Miguel_Organizacion_Empresarial_TPI_1.pdf)
+- [TPI 2](./entregas_anteriores/Irala_Richard_Miguel_Organizacion_Empresarial_TPI_2.pdf)
+- [TPI 3](./entregas_anteriores/Irala_Richard_Miguel_Organizacion_Empresarial_TPI_3.pdf)
+
 ## Participantes del proceso
 
 * Dueño de mascota: registra la búsqueda, consulta novedades y confirma el hallazgo o solicita el cierre.
