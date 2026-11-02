@@ -1,9 +1,13 @@
 # Buscando Huellas - Documentación Técnica
 
 **Organización Empresarial, TPI Entrega N°4**
+
 **Institución: Universidad Tecnológica Nacional (UTN)**
+
 **Carrera:** Tecnicatura Universitaria en Programación a Distancia
+
 **Estado del proyecto:** propuesta y documentación académica; no implica que el software esté implementado.
+
 **Integrantes:** Richard Miguel Irala
 
 ## Descripción
